@@ -6,7 +6,7 @@
 
 |number| Tobic | link|
 |:---: |:---: | :---:|
-|  1 | installation |  [click here](./classes/class2.md) | 
+|  1 | installation |  [click here](./classes/class1.md) | 
 |  2  |   html |      [click here](./classes/class2.md) | 
 |  3  |   html |      [click here](./classes/class3.md) | 
 |  4  |   html |     [click here](./classes/class4.md) | 
