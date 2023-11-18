@@ -31,4 +31,7 @@
 |  23 |   html |  [click here](./classes/class23.md) | 
 |  24 |   html |  [click here](./classes/class24.md) | 
 |  25 |   html |  [click here](./classes/class25.md) | 
-|  25 |   html |  [click here](./classes/class26.md) | 
+|  26 |   html |  [click here](./classes/class26.md) | 
+|  27 |   html |  [click here](./classes/class27.md) | 
+
+
