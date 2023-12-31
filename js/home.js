@@ -83,33 +83,49 @@ var h1= document.getElementById('maen');
 console.log(h1.innerHTML);
 //  change the text inside the tag
 //الاينر بتجيب حرفي لو كان بتجيب ال بوتن او الدايف كامل وهيك
-// التيكست بتجيب شو دوا البوتن او جوا ال الدايف
-h1.innerHTML='malkawii';//h1 الجمله يلي بتعرل ال 
+// // التيكست بتجيب شو دوا البوتن او جوا ال الدايف
+// h1.innerHTML='malkawii';//h1 الجمله يلي بتعرل ال 
 
-h1.style.color='black'; //change the style color for h1
-h1.style.backgroundColor='white';//change the stylefor backgroundcolor for h1
+// h1.style.color='black'; //change the style color for h1
+// h1.style.backgroundColor='white';//change the stylefor backgroundcolor for h1
 
-var img = document.getElementsByTagName('img');
-console.log(img);
-img[1].src='https://www.w3schools.com/js/pic_bulbon.gif';
-img[3].width= '1';
+// var img = document.getElementsByTagName('img');
+// console.log(img);
+// img[1].src='https://www.w3schools.com/js/pic_bulbon.gif';
+// img[3].width= '1';
 
-img[7].src='https://www.w3schools.com/js/pic_bulbon.gif';
+// //img[7].src='https://www.w3schools.com/js/pic_bulbon.gif';
 
+// var body = document.getElementsByTagName("body");
+// console.log(body); 
 
+// function creatNewAlert() {
+   
+// body[0].style.backgroundColor='red';
 
-//   array 
+//  }
+ 
 
-var arr1 = [ 'test',10,true,25.5];
-console.log(arr1);
-console.log(arr1[0]);
+// //   array 
 
-//  object
+// var arr1 = [ 'test',10,true,25.5];
+// console.log(arr1);
+// console.log(arr1[0]);
 
-var ovj1 = { name:'value', age: 25, isStudent: true};
-console.log(ovj1);
-console.log(ovj1.name);
-console.log(ovj1.age);
-console.log(ovj1.isStudent);
+// //  object
+
+// var ovj1 = { name:'value', age: 25, isStudent: true};
+// console.log(ovj1);
+// console.log(ovj1.name);
+// console.log(ovj1.age);
+// console.log(ovj1.isStudent);
 
 //  function :> block of code that can be called when needed
+//function name(params) {} >>> decleration to function
+//name()>> call a funtion    
+ 
+//function creatNewAlert() {
+   // alert('welcome to our')
+//}
+
+ 

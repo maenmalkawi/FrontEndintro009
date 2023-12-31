@@ -65,12 +65,12 @@ body{
     -ms-border-radius: 10px;
     -o-border-radius: 10px;
 }
-#naveBar div button:hover{
+/* #naveBar div button:hover{
     background-color:#eff0f4;
     color: #2B3856	;
     border:#2B3856	3px solid;
     border-radius: 100px;
-}
+} */
 
 
 /* footer style  */
@@ -92,28 +92,82 @@ body{
     text-align: center;
 }
 
-#sec1{
-    background-color: aliceblue;
+/* #sec1{
+    background-color:black;
     height: 400px;
     text-align: center;
 }
 #sec2{
-    background-color:red;
+    background-color:gray;
     height: 400px;
     text-align: center;
 }
 #sec3{
-    background-color: pink;
+    background-color:gray;
     height: 400px;
     text-align: center;
 }
 #sec4{
-    background-color:aqua;
+    background-color:gray;
     height: 400px;
     text-align: center;
 }
 #sec5{
-    background-color:#151B54;
+    background-color:gray;
     height: 400px;
     text-align: center;
+} */
+
+#sec1{
+    background-color: #f1f1f1;
+    height: 400px;
+    text-align: center;
+    margin: auto;
+    padding-left: 350px;
+
 }
+#sec2{
+    background-color: #ac4b4b;
+    height: 400px;
+    text-align: center;
+ 
+}
+#sec3{
+    background-color: white;
+    height: 400px;
+    text-align: center;
+
+}
+#sec4{
+    background-color: #df6464;
+    height: 400px;
+    text-align: center;
+
+}
+#sec5{
+    background-color: #cc0000;
+    height: 400px;
+    text-align: center;
+
+}
+
+.item{
+    float: left;
+    border: 3px solid black;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+    width: 300px;
+}
+
+.item img{
+    width: 200px;
+}
+.item:hover{
+    border:white ;
+    background-color: rgb(2, 2, 2);
+
+}
+
+
+
